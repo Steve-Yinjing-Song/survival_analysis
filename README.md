@@ -1,4 +1,6 @@
 # Springboard-Course-Capstone-Project-1
+                              Survival Analysis on Telco Customer Churn
+                                      
                                       Executive Summary
 
 Customer churn, defined as the percentage of customers that stop using a company's products or services, is one of the most import matrices for a business, as it usually costs more to acquire new customers than it does to retain existing ones.
